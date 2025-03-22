@@ -176,6 +176,11 @@ Table of Contents
 * [Microsoft LAPS Security & Active Directory LAPS Configuration Recon](https://adsecurity.org/?p=3164)
 * [Trust Direction: An Enabler for Active Directory Enumeration and Trust Exploitation](https://bohops.com/2017/12/02/trust-direction-an-enabler-for-active-directory-enumeration-and-trust-exploitation/)
 * [SPN Discovery](https://pentestlab.blog/2018/06/04/spn-discovery/)
+
+## [↑](#table-of-contents) Threat Intelligence
+* [Red Team News](https://redteamnews.com/blog/)
+* [Nao Sec](https://nao-sec.org/)
+* [Darknet Diaries](https://darknetdiaries.com/)
    
 ## [↑](#table-of-contents) Lateral Movement 
 
